@@ -1,9 +1,10 @@
 # ⛏ Wolf SMP Minecraft Website
 A Website for [WӨLF SMP MIПECRΛFT MCPE SΣRVER](https://discord.gg/wzJpJahe8m), Made with 💝 by [Ashley Sato](https://github.com/AshleySato899)
-<!-- [![cbas-webpage](https://user-images.githubusercontent.com/89291919/136690807-4f4b8373-da17-44de-9843-070e4ecee7bd.png)](https://crazybrothersandsisters.vercel.app) -->
+
+[![wolfsmp-webpage](https://raw.githubusercontent.com/AshleySato899/wolfsmp-website/main/wolfsmp.png)](https://wolfsmp.vercel.app/)
 
 ## 🔗 Links and Pages
-- [🥰 Main Website](#)
+- [🥰 Main Website](https://wolfsmp.vercel.app/)
 - [💬 Their Discord](https://discord.gg/wzJpJahe8m)
 
 ## ⚠ WARNING:
